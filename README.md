@@ -1,0 +1,2 @@
+# SQL-shack
+SQL projects
